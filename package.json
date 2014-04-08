@@ -1,0 +1,11 @@
+{
+  "name": "gitter-node-stream",
+  "version": "0.0.1",
+  "description": "Node example client for the Gitter Stream API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@malditogeek",
+  "license": "BSD-2-Clause"
+}
